@@ -1,6 +1,6 @@
 ![](doc/images/logo.png)
 
-<h1>Nick sandbox</h1>
+<h1>Nick sandbox .</h1>
 
 <hr/>
 
